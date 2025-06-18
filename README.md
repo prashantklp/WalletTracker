@@ -17,19 +17,19 @@
 ## 🖼️ Screenshots
 
 ### 📊 Dashboard
-![Dashboard Screenshot](https://github.com/user-attachments/assets/0d04e9ae-7d1a-449b-b3ee-15ff98f61e4b)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/aa3f07ac-e87d-454e-9d6d-48dd0fbb5c1c)
 
 ### 📈 Income View
-![Income Screenshot](https://github.com/user-attachments/assets/7926340c-e53d-4464-a380-98837e3ad76b)
+![Income Screenshot](https://github.com/user-attachments/assets/cffb6ec0-5803-4e72-9d1a-6b240885bfb5)
 
 ### 📉 Expense View
-![Expense Screenshot](https://github.com/user-attachments/assets/f57cfad0-594c-4ad7-8aab-47872b00e916)
+![Expense Screenshot](https://github.com/user-attachments/assets/53683759-9a47-4373-9f41-44c5893ea2f2)
 
 ### 📊 Charts
-![Charts Screenshot](https://github.com/user-attachments/assets/5159ef28-d0af-401e-ae8e-214ff5e249f7)
+![Charts Screenshot](https://github.com/user-attachments/assets/6036aab2-2c69-479a-ab07-ceb4f68380dd)
 
 ### 🧾 Recent Transactions
-![Recent Transactions Screenshot](https://github.com/user-attachments/assets/acf454af-1561-4e49-86a6-1e36c4aac467)
+![Recent Transactions Screenshot](https://github.com/user-attachments/assets/ca5f8c17-c33d-4919-a3ef-22c79a5c92e3)
 
 ---
 
